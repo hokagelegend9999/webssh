@@ -4,7 +4,9 @@
 
 # webssh
 
-Install PHP 
+- Install PHP v.8.4
+- 
+- INSTALL SSH 2
 
 ##
 EXKEKUSI PHP : php -S localhost:8000

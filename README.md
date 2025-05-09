@@ -5,7 +5,7 @@
 # webssh
 
 - Install PHP v.8.4
-- 
+- phpseclib
 - INSTALL SSH 2
 
 ##
